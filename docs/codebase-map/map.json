@@ -1,0 +1,19 @@
+{
+  "modules": [
+    {
+      "id": ".",
+      "files": 1,
+      "summary": "Prints \"Goodbye, <name>!\" for the first argument, or \"Goodbye, world!\" with none.",
+      "dependsOn": [],
+      "interface": [
+        {
+          "file": "farewell.py",
+          "names": [
+            "farewell"
+          ]
+        }
+      ]
+    }
+  ],
+  "notMapped": []
+}
