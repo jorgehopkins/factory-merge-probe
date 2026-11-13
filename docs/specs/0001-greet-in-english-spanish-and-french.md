@@ -57,3 +57,7 @@ Straight to everyone on `main`, with no feature flag, because it only adds an op
 - AC-9: `./greet.sh --lang` (no code) is handled as in AC-7.
 - AC-10: `test-greet.sh` checks every case in AC-1 to AC-9 and exits non-zero if any fails.
 - AC-11: `CHANGELOG.md` describes the `--lang` flag, the three codes and the English default.
+
+## Acceptance note
+
+Accepted on 2026-11-13 with no known gaps.
